@@ -10,7 +10,7 @@ Those angles are not measured directly. Electrons travel through the spectromete
 
 The mapping is calibrated with a standard technique:
 
-- A **sieve**, a plate with a pattern of 21 holes, is placed in the beam path, so only electrons passing through known holes reach the detectors.
+- A **sieve**, an annulus with a pattern of 21 holes, is placed in the beam path, so only electrons passing through known holes reach the detectors.
 - Thin **carbon (C12) foils** at several positions along the target chamber provide scattering at known locations.
 - Data are taken at **four beam energies** (2.2, 4.4, 6.6 and 8.8 GeV, labelled passes p1–p4) to cover a wide range of kinematics.
 
